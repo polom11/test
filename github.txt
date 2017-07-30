@@ -1,0 +1,18 @@
+git commit -m "opis" -- dodawanie wczesniej przygotowanych plikow
+git push -u origin master --przesylanie plikow na kolejne galezie
+git remote add origin https://github.com/twojUsername/twoje_repozytorium.git --> ustawienie repozytorium
+git pull origin master --> pobranie wszystkich zmian
+git branch --> tworzenie odgalezienia
+
+
+C:\Users\kacper\.git
+
+
+5 git add .
+7 git commit -m""
+8 git pull origin master
+9 git push origin master
+
+
+git status 
+git log
